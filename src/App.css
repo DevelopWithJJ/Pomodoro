@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  font-family: comic-sans;
+}
+
+body {
+  margin-top: 200px;
+  background-color: slategray;
+}
+
+h1 {
+  margin-bottom: 30px;
+}
+
+.btn btn-group {
+  margin-bottom: 400px;
+}
