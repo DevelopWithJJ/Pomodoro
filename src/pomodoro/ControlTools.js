@@ -32,7 +32,7 @@ function ControlTools({
           </button>
           <button
             type="button"
-            classNames="btn btn-danger"
+            className="btn btn-danger"
             data-testid="stop"
             title="Stop the session"
             onClick={handleStopButton}
